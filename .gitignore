@@ -1,0 +1,24 @@
+# Unreal Engine
+DerivedDataCache/
+Saved/
+Intermediate/
+Plugins/
+
+# Visual Studio
+.vs/
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+
+# Mac
+.DS_Store
+
+# Other
+*.log
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
